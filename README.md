@@ -2,11 +2,11 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (2 days ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (3 days ago)
 - [ItIsEntropy/certificates](https://github.com/ItIsEntropy/certificates) - A place to store and share all my course certificates. (4 months ago)
 - [ItIsEntropy/currency_converter](https://github.com/ItIsEntropy/currency_converter) - My final Submission for the ALC 7 days of code Challenge. project name compliant and what not  (7 months ago)
 - [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (8 months ago)
-- [Mwimwii/ereg](https://github.com/Mwimwii/ereg) - E-Registry Frontend (9 months ago)
+- [Mwimwii/ereg](https://github.com/Mwimwii/ereg) - E-Registry Frontend (10 months ago)
 - [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) -  (10 months ago)
 
 #### 🌱 My latest projects
