@@ -2,8 +2,8 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/certificates](https://github.com/ItIsEntropy/certificates) - A place to store and share all my course certificates. (today)
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (4 days ago)
+- [ItIsEntropy/certificates](https://github.com/ItIsEntropy/certificates) - A place to store and share all my course certificates. (1 day ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (5 days ago)
 - [ItIsEntropy/currency_converter](https://github.com/ItIsEntropy/currency_converter) - My final Submission for the ALC 7 days of code Challenge. project name compliant and what not  (7 months ago)
 - [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (8 months ago)
 - [Mwimwii/ereg](https://github.com/Mwimwii/ereg) - E-Registry Frontend (10 months ago)
@@ -27,7 +27,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [Merging docs](https://github.com/Mwimwii/dashboard/pull/4) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (9 months ago)
 - [Fixed the json.dumps() not serializing bug](https://github.com/Mwimwii/dashboard/pull/3) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (9 months ago)
 - [Pingcheck](https://github.com/Mwimwii/dashboard/pull/1) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (9 months ago)
-- [slight operational improvements](https://github.com/Mwimwii/check_pages/pull/2) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (9 months ago)
+- [slight operational improvements](https://github.com/Mwimwii/check_pages/pull/2) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (10 months ago)
 - [Detect unsupported browsers, add support for doc type selection](https://github.com/Mwimwii/ereg/pull/1) on [Mwimwii/ereg](https://github.com/Mwimwii/ereg) (10 months ago)
 - [Capture all links](https://github.com/Mwimwii/check_pages/pull/1) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (10 months ago)
 - [Add missing Install Instructions](https://github.com/tensorflow/docs/pull/419) on [tensorflow/docs](https://github.com/tensorflow/docs) (2 years ago)
