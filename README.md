@@ -3,7 +3,6 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 👷 Check out what I'm currently working on
 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 day ago)
-- [ItIsEntropy/currency_converter](https://github.com/ItIsEntropy/currency_converter) - My final Submission for the ALC 7 days of code Challenge. project name compliant and what not  (7 months ago)
 - [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (8 months ago)
 - [Mwimwii/ereg](https://github.com/Mwimwii/ereg) - E-Registry Frontend (10 months ago)
 - [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) -  (10 months ago)
@@ -11,7 +10,6 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 🌱 My latest projects
 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site
-- [ItIsEntropy/currency_converter](https://github.com/ItIsEntropy/currency_converter) - My final Submission for the ALC 7 days of code Challenge. project name compliant and what not 
 - [ItIsEntropy/procurrency](https://github.com/ItIsEntropy/procurrency) - A progressive web app built as part of the Google Learn with Andela Challenge 3.0 challenge course. This is a certificate challenge for the mobile web specialist track, a prerequisite for the Nanodegree scholarship selection.
 
 #### 🔭 Latest releases I've contributed to
