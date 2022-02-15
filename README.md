@@ -2,7 +2,7 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 week ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (2 weeks ago)
 - [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (9 months ago)
 - [Mwimwii/ereg](https://github.com/Mwimwii/ereg) - E-Registry Frontend (10 months ago)
 - [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) -  (11 months ago)
@@ -40,7 +40,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 - [golang/go](https://github.com/golang/go) - The Go programming language (2 months ago)
 - [jswanner/DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (10 months ago)
-- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (11 months ago)
+- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (1 year ago)
 - [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (1 year ago)
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (2 years ago)
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (2 years ago)
