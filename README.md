@@ -38,7 +38,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### ⭐ Recent Stars
 
-- [golang/go](https://github.com/golang/go) - The Go programming language (2 months ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (3 months ago)
 - [jswanner/DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (10 months ago)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (1 year ago)
 - [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (1 year ago)
