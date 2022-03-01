@@ -2,7 +2,7 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (3 weeks ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (4 weeks ago)
 - [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (9 months ago)
 - [Mwimwii/ereg](https://github.com/Mwimwii/ereg) - E-Registry Frontend (11 months ago)
 - [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) -  (11 months ago)
