@@ -23,7 +23,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [Fixed the json.dumps() not serializing bug](https://github.com/Mwimwii/dashboard/pull/3) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
 - [Pingcheck](https://github.com/Mwimwii/dashboard/pull/1) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
 - [slight operational improvements](https://github.com/Mwimwii/check_pages/pull/2) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (11 months ago)
-- [Detect unsupported browsers, add support for doc type selection](https://github.com/Mwimwii/ereg/pull/1) on [Mwimwii/ereg](https://github.com/Mwimwii/ereg) (11 months ago)
+- [Detect unsupported browsers, add support for doc type selection](https://github.com/Mwimwii/ereg/pull/1) on [Mwimwii/ereg](https://github.com/Mwimwii/ereg) (1 year ago)
 - [Capture all links](https://github.com/Mwimwii/check_pages/pull/1) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (1 year ago)
 - [Add missing Install Instructions](https://github.com/tensorflow/docs/pull/419) on [tensorflow/docs](https://github.com/tensorflow/docs) (3 years ago)
 
