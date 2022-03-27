@@ -4,7 +4,6 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 month ago)
 - [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (10 months ago)
-- [Mwimwii/ereg](https://github.com/Mwimwii/ereg) - E-Registry Frontend (1 year ago)
 
 #### 🌱 My latest projects
 
