@@ -3,7 +3,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 👷 Check out what I'm currently working on
 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (2 months ago)
-- [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (10 months ago)
+- [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -15,7 +15,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔨 My recent Pull Requests
 
-- [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (10 months ago)
+- [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
 - [merge upstream](https://github.com/ItIsEntropy/dashboard/pull/4) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (11 months ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
 - [Merging docs](https://github.com/Mwimwii/dashboard/pull/4) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
