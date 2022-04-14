@@ -18,7 +18,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
 - [merge upstream](https://github.com/ItIsEntropy/dashboard/pull/4) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (11 months ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
-- [Merging docs](https://github.com/Mwimwii/dashboard/pull/4) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (11 months ago)
+- [Merging docs](https://github.com/Mwimwii/dashboard/pull/4) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [Fixed the json.dumps() not serializing bug](https://github.com/Mwimwii/dashboard/pull/3) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [Pingcheck](https://github.com/Mwimwii/dashboard/pull/1) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [slight operational improvements](https://github.com/Mwimwii/check_pages/pull/2) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (1 year ago)
