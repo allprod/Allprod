@@ -3,7 +3,6 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 👷 Check out what I'm currently working on
 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (3 months ago)
-- [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) -  (1 year ago)
 
 #### 🌱 My latest projects
 
