@@ -31,7 +31,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/a59eb254db10814de1b48520ad35f9df) (2 years ago)
+- [](https://gist.github.com/a59eb254db10814de1b48520ad35f9df) (3 years ago)
 
 #### ⭐ Recent Stars
 
