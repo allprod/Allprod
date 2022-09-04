@@ -2,18 +2,23 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (4 months ago)
+- [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (3 weeks ago)
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (2 months ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (7 months ago)
 
 #### 🌱 My latest projects
 
+- [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site
 - [ItIsEntropy/procurrency](https://github.com/ItIsEntropy/procurrency) - A progressive web app built as part of the Google Learn with Andela Challenge 3.0 challenge course. This is a certificate challenge for the mobile web specialist track, a prerequisite for the Nanodegree scholarship selection.
 
 #### 🔭 Latest releases I've contributed to
 
+- [FoalTS/foal](https://github.com/FoalTS/foal) ([v2.10.2](https://github.com/FoalTS/foal/releases/tag/v2.10.2), 2 weeks ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
 #### 🔨 My recent Pull Requests
 
+- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (2 months ago)
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [merge upstream](https://github.com/ItIsEntropy/dashboard/pull/4) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (1 year ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
@@ -22,8 +27,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [Pingcheck](https://github.com/Mwimwii/dashboard/pull/1) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [slight operational improvements](https://github.com/Mwimwii/check_pages/pull/2) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (1 year ago)
 - [Detect unsupported browsers, add support for doc type selection](https://github.com/Mwimwii/ereg/pull/1) on [Mwimwii/ereg](https://github.com/Mwimwii/ereg) (1 year ago)
-- [Capture all links](https://github.com/Mwimwii/check_pages/pull/1) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (1 year ago)
-- [Add missing Install Instructions](https://github.com/tensorflow/docs/pull/419) on [tensorflow/docs](https://github.com/tensorflow/docs) (3 years ago)
+- [Capture all links](https://github.com/Mwimwii/check_pages/pull/1) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (2 years ago)
 
 
 #### 📜 My recent blog posts
@@ -35,16 +39,16 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### ⭐ Recent Stars
 
-- [golang/go](https://github.com/golang/go) - The Go programming language (6 months ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (1 month ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (9 months ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (1 year ago)
-- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (1 year ago)
-- [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (1 year ago)
+- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (2 years ago)
+- [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (2 years ago)
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (2 years ago)
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (2 years ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes (2 years ago)
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility. (2 years ago)
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools. (2 years ago)
-- [fchollet/ARC](https://github.com/fchollet/ARC) - The Abstraction and Reasoning Corpus (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
