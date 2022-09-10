@@ -14,7 +14,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔭 Latest releases I've contributed to
 
-- [FoalTS/foal](https://github.com/FoalTS/foal) ([v2.10.2](https://github.com/FoalTS/foal/releases/tag/v2.10.2), 2 weeks ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
+- [FoalTS/foal](https://github.com/FoalTS/foal) ([v2.10.2](https://github.com/FoalTS/foal/releases/tag/v2.10.2), 3 weeks ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
 #### 🔨 My recent Pull Requests
 
@@ -26,7 +26,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [Fixed the json.dumps() not serializing bug](https://github.com/Mwimwii/dashboard/pull/3) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [Pingcheck](https://github.com/Mwimwii/dashboard/pull/1) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [slight operational improvements](https://github.com/Mwimwii/check_pages/pull/2) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (1 year ago)
-- [Detect unsupported browsers, add support for doc type selection](https://github.com/Mwimwii/ereg/pull/1) on [Mwimwii/ereg](https://github.com/Mwimwii/ereg) (1 year ago)
+- [Detect unsupported browsers, add support for doc type selection](https://github.com/Mwimwii/ereg/pull/1) on [Mwimwii/ereg](https://github.com/Mwimwii/ereg) (2 years ago)
 - [Capture all links](https://github.com/Mwimwii/check_pages/pull/1) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (2 years ago)
 
 
