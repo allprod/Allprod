@@ -2,7 +2,7 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (6 days ago)
+- [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (1 week ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (1 month ago)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (2 months ago)
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (7 months ago)
@@ -20,7 +20,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔨 My recent Pull Requests
 
-- [sync](https://github.com/ItIsEntropy/dashboard/pull/13) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (6 days ago)
+- [sync](https://github.com/ItIsEntropy/dashboard/pull/13) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (1 week ago)
 - [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (2 months ago)
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [merge upstream](https://github.com/ItIsEntropy/dashboard/pull/4) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (1 year ago)
@@ -41,8 +41,8 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### ⭐ Recent Stars
 
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (1 month ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (9 months ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (2 months ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (10 months ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (1 year ago)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (2 years ago)
 - [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (2 years ago)
