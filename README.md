@@ -5,7 +5,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (2 weeks ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (1 month ago)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (2 months ago)
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (7 months ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,8 +26,8 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [merge upstream](https://github.com/ItIsEntropy/dashboard/pull/4) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (1 year ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
 - [Merging docs](https://github.com/Mwimwii/dashboard/pull/4) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
-- [Fixed the json.dumps() not serializing bug](https://github.com/Mwimwii/dashboard/pull/3) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
-- [Pingcheck](https://github.com/Mwimwii/dashboard/pull/1) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (1 year ago)
+- [Fixed the json.dumps() not serializing bug](https://github.com/Mwimwii/dashboard/pull/3) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
+- [Pingcheck](https://github.com/Mwimwii/dashboard/pull/1) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
 - [slight operational improvements](https://github.com/Mwimwii/check_pages/pull/2) on [Mwimwii/check_pages](https://github.com/Mwimwii/check_pages) (2 years ago)
 - [Detect unsupported browsers, add support for doc type selection](https://github.com/Mwimwii/ereg/pull/1) on [Mwimwii/ereg](https://github.com/Mwimwii/ereg) (2 years ago)
 
