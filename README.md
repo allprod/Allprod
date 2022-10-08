@@ -43,7 +43,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (2 months ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (10 months ago)
-- [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (1 year ago)
+- [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (2 years ago)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (2 years ago)
 - [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (2 years ago)
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (2 years ago)
