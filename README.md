@@ -3,7 +3,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 👷 Check out what I'm currently working on
 
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (1 month ago)
-- [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (2 months ago)
+- [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (3 months ago)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (4 months ago)
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (9 months ago)
 
@@ -16,7 +16,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔭 Latest releases I've contributed to
 
-- [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.0.2](https://github.com/FoalTS/foal/releases/tag/v3.0.2), 5 days ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
+- [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.0.2](https://github.com/FoalTS/foal/releases/tag/v3.0.2), 6 days ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
 #### 🔨 My recent Pull Requests
 
