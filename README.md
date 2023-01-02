@@ -4,7 +4,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (3 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (4 months ago)
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (5 months ago)
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (6 months ago)
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (11 months ago)
 
 #### 🌱 My latest projects
@@ -21,7 +21,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 🔨 My recent Pull Requests
 
 - [sync](https://github.com/ItIsEntropy/dashboard/pull/13) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (3 months ago)
-- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (5 months ago)
+- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (6 months ago)
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
 - [merge upstream](https://github.com/ItIsEntropy/dashboard/pull/4) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (2 years ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
