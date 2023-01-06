@@ -49,7 +49,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (2 years ago)
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (2 years ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes (2 years ago)
-- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility. (2 years ago)
+- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility. (3 years ago)
 - [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools. (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
