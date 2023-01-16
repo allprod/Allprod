@@ -2,10 +2,10 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (today)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (4 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (5 months ago)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (6 months ago)
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,6 +34,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 📜 My recent blog posts
 
+- [Introduction to Entropy](https://ItIsEntropy.github.io/posts/hithere/) (11 months ago)
 
 #### 📓 Gists I wrote
 
