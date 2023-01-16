@@ -34,7 +34,6 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 📜 My recent blog posts
 
-- [Introduction to Entropy](https://ItIsEntropy.github.io/posts/hithere/) (11 months ago)
 
 #### 📓 Gists I wrote
 
