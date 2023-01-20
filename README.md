@@ -11,6 +11,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge
+- [ItIsEntropy/viento](https://github.com/ItIsEntropy/viento) - 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site
 - [ItIsEntropy/procurrency](https://github.com/ItIsEntropy/procurrency) - A progressive web app built as part of the Google Learn with Andela Challenge 3.0 challenge course. This is a certificate challenge for the mobile web specialist track, a prerequisite for the Nanodegree scholarship selection.
 
