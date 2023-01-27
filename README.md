@@ -6,14 +6,14 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (4 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (5 months ago)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (6 months ago)
-- [ItIsEntropy/viento](https://github.com/ItIsEntropy/viento) -  (9 months ago)
+- [ItIsEntropy/viento](https://github.com/ItIsEntropy/viento) - A wind pattern prediction app. Mirrored from my gitlab repo (9 months ago)
 - [ItIsEntropy/mortise](https://github.com/ItIsEntropy/mortise) -  (9 months ago)
 
 #### 🌱 My latest projects
 
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge
-- [ItIsEntropy/viento](https://github.com/ItIsEntropy/viento) - 
+- [ItIsEntropy/viento](https://github.com/ItIsEntropy/viento) - A wind pattern prediction app. Mirrored from my gitlab repo
 - [ItIsEntropy/mortise](https://github.com/ItIsEntropy/mortise) - 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site
 - [ItIsEntropy/procurrency](https://github.com/ItIsEntropy/procurrency) - A progressive web app built as part of the Google Learn with Andela Challenge 3.0 challenge course. This is a certificate challenge for the mobile web specialist track, a prerequisite for the Nanodegree scholarship selection.
