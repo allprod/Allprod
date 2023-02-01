@@ -5,7 +5,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (2 weeks ago)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (4 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (5 months ago)
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (6 months ago)
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (7 months ago)
 - [ItIsEntropy/viento](https://github.com/ItIsEntropy/viento) - A wind pattern prediction app. Mirrored from my gitlab repo: https://gitlab.com/PureEntropy/viento/ (9 months ago)
 - [ItIsEntropy/mortise](https://github.com/ItIsEntropy/mortise) -  (9 months ago)
 
@@ -25,7 +25,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 🔨 My recent Pull Requests
 
 - [sync](https://github.com/ItIsEntropy/dashboard/pull/13) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (4 months ago)
-- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (6 months ago)
+- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (7 months ago)
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
 - [merge upstream](https://github.com/ItIsEntropy/dashboard/pull/4) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (2 years ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
