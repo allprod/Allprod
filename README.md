@@ -45,7 +45,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### ⭐ Recent Stars
 
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (6 months ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (7 months ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 year ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (2 years ago)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (2 years ago)
