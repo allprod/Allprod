@@ -6,8 +6,8 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (5 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (6 months ago)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (7 months ago)
-- [ItIsEntropy/mortise](https://github.com/ItIsEntropy/mortise) -  (10 months ago)
 - [ItIsEntropy/viento](https://github.com/ItIsEntropy/viento) - A wind pattern prediction app. Mirrored from my gitlab repo: https://gitlab.com/PureEntropy/viento/ (10 months ago)
+- [ItIsEntropy/mortise](https://github.com/ItIsEntropy/mortise) -  (10 months ago)
 
 #### 🌱 My latest projects
 
