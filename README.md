@@ -2,7 +2,7 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (5 days ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (6 days ago)
 - [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (2 weeks ago)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (5 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (7 months ago)
