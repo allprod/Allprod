@@ -3,7 +3,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 👷 Check out what I'm currently working on
 
 - [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (3 weeks ago)
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (4 weeks ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 month ago)
 - [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (1 month ago)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (6 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (7 months ago)
