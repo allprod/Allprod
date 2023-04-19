@@ -2,10 +2,10 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (5 days ago)
+- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (1 day ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (6 days ago)
 - [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (1 week ago)
 - [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (1 month ago)
-- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (1 month ago)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (7 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (8 months ago)
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented. (9 months ago)
@@ -28,7 +28,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔨 My recent Pull Requests
 
-- [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (1 week ago)
+- [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (2 weeks ago)
 - [sync](https://github.com/ItIsEntropy/dashboard/pull/13) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (7 months ago)
 - [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (9 months ago)
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
@@ -49,7 +49,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### ⭐ Recent Stars
 
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (8 months ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (9 months ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 year ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (2 years ago)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (2 years ago)
