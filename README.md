@@ -2,7 +2,7 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (2 days ago)
+- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (3 days ago)
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 week ago)
 - [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (2 weeks ago)
 - [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (1 month ago)
@@ -65,11 +65,11 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 👯 Check out some of my recent followers
 
+- [vjanz](https://github.com/vjanz)
 - [danieloseni](https://github.com/danieloseni)
 - [wmark](https://github.com/wmark)
 - [ananyasaha173](https://github.com/ananyasaha173)
 - [ememekk](https://github.com/ememekk)
-- [victorbjorklund](https://github.com/victorbjorklund)
 
 #### 💬 Feedback
 
