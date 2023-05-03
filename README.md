@@ -28,7 +28,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔨 My recent Pull Requests
 
-- [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (3 weeks ago)
+- [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (4 weeks ago)
 - [sync](https://github.com/ItIsEntropy/dashboard/pull/13) on [ItIsEntropy/dashboard](https://github.com/ItIsEntropy/dashboard) (7 months ago)
 - [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (10 months ago)
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (2 years ago)
