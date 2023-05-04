@@ -2,9 +2,9 @@
 My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (2 weeks ago)
-- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (2 weeks ago)
-- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (3 weeks ago)
+- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (1 day ago)
+- [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (3 weeks ago)
+- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (4 weeks ago)
 - [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (1 month ago)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (7 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (8 months ago)
@@ -23,8 +23,8 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔭 Latest releases I've contributed to
 
-- [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.2.0](https://github.com/FoalTS/foal/releases/tag/v3.2.0), 4 weeks ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
-- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([1.0.12](https://github.com/xtrinch/fcm-django/releases/tag/1.0.12), 11 months ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
+- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([1.0.13](https://github.com/xtrinch/fcm-django/releases/tag/1.0.13), 1 day ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
+- [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.2.0](https://github.com/FoalTS/foal/releases/tag/v3.2.0), 1 month ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
 #### 🔨 My recent Pull Requests
 
