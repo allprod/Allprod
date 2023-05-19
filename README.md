@@ -23,7 +23,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔭 Latest releases I've contributed to
 
-- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([1.0.14](https://github.com/xtrinch/fcm-django/releases/tag/1.0.14), 1 week ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
+- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([1.0.14](https://github.com/xtrinch/fcm-django/releases/tag/1.0.14), 2 weeks ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
 - [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.2.0](https://github.com/FoalTS/foal/releases/tag/v3.2.0), 1 month ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
 #### 🔨 My recent Pull Requests
@@ -49,8 +49,8 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### ⭐ Recent Stars
 
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (9 months ago)
-- [golang/go](https://github.com/golang/go) - The Go programming language (1 year ago)
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (10 months ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (2 years ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (2 years ago)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (2 years ago)
 - [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (2 years ago)
