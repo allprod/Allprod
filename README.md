@@ -4,7 +4,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 - [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (1 week ago)
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 month ago)
-- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (1 month ago)
+- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (2 months ago)
 - [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (2 months ago)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (8 months ago)
 - [ItIsEntropy/MyMoney](https://github.com/ItIsEntropy/MyMoney) - Ziphire python coding challenge (10 months ago)
@@ -23,7 +23,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔭 Latest releases I've contributed to
 
-- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([2.0.0](https://github.com/xtrinch/fcm-django/releases/tag/2.0.0), 4 days ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
+- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([2.0.0](https://github.com/xtrinch/fcm-django/releases/tag/2.0.0), 5 days ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
 - [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.2.0](https://github.com/FoalTS/foal/releases/tag/v3.2.0), 2 months ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
 #### 🔨 My recent Pull Requests
