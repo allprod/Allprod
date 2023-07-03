@@ -24,7 +24,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 🔭 Latest releases I've contributed to
 
 - [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([2.0.0](https://github.com/xtrinch/fcm-django/releases/tag/2.0.0), 1 month ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
-- [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.2.0](https://github.com/FoalTS/foal/releases/tag/v3.2.0), 2 months ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
+- [FoalTS/foal](https://github.com/FoalTS/foal) ([v3.2.0](https://github.com/FoalTS/foal/releases/tag/v3.2.0), 3 months ago) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
 #### 🔨 My recent Pull Requests
 
