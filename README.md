@@ -21,7 +21,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 🔭 Latest releases I've contributed to
 
-- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([2.0.0](https://github.com/xtrinch/fcm-django/releases/tag/2.0.0), 2 months ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
+- [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) ([2.0.0](https://github.com/xtrinch/fcm-django/releases/tag/2.0.0), 3 months ago) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging)
 
 #### 🔨 My recent Pull Requests
 
