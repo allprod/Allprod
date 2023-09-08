@@ -5,7 +5,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 month ago)
 - [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (3 months ago)
 - [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (5 months ago)
-- [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (5 months ago)
+- [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (6 months ago)
 - [ItIsEntropy/FlatFollow](https://github.com/ItIsEntropy/FlatFollow) - Flat follow. Follow ration balancing app (11 months ago)
 
 #### 🌱 My latest projects
