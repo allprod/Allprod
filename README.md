@@ -61,11 +61,11 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 
 #### 👯 Check out some of my recent followers
 
-- [AbdeenM](https://github.com/AbdeenM)
 - [danieloseni](https://github.com/danieloseni)
 - [wmark](https://github.com/wmark)
 - [ananyasaha173](https://github.com/ananyasaha173)
 - [ememekk](https://github.com/ememekk)
+- [victorbjorklund](https://github.com/victorbjorklund)
 
 #### 💬 Feedback
 
