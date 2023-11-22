@@ -3,7 +3,7 @@ My name is ItIsEntropy (Entropy for short), I do machine learning, mobile develo
 #### 👷 Check out what I'm currently working on
 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (3 weeks ago)
-- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (5 months ago)
+- [ItIsEntropy/leavedemo](https://github.com/ItIsEntropy/leavedemo) - temporaty demo (6 months ago)
 - [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) - FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Messaging) (7 months ago)
 - [ItIsEntropy/DataWranglingALX_Udacity](https://github.com/ItIsEntropy/DataWranglingALX_Udacity) - course repo (8 months ago)
 
