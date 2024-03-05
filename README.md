@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is ItIsEntropy (Entropy for short), I do machine learning, mobile development, systems development, systems administration, and technical support.
+My name is Allprod (but you can call me entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
 - [ItIsEntropy/itisentropy.github.io](https://github.com/ItIsEntropy/itisentropy.github.io) - github pages site (1 month ago)
@@ -74,6 +74,6 @@ Say Hello, I don't bite!
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/itisentropy
-- Blog: https://itisentropy.github.io
+- Blog: https://allprod.github.io
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
