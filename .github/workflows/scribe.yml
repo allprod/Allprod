@@ -25,6 +25,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: master
-          commit_user_name: ItIsEntropy
-          commit_user_email: 29229275+ItIsEntropy@users.noreply.github.com
-          commit_author: ItIsEntropy <29229275+ItIsEntropy@users.noreply.github.com>
+          commit_user_name: allprod
+          commit_user_email: 29229275+allprod@users.noreply.github.com
+          commit_author: allprod <29229275+allprod@users.noreply.github.com>
