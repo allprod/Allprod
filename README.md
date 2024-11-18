@@ -57,11 +57,11 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### 👯 Check out some of my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [Mwimwii](https://github.com/Mwimwii)
 - [hu8813](https://github.com/hu8813)
 - [warmice71](https://github.com/warmice71)
 - [danieloseni](https://github.com/danieloseni)
-- [mark-kubacki](https://github.com/mark-kubacki)
 
 #### 💬 Feedback
 
