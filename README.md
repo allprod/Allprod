@@ -50,7 +50,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (4 years ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (4 years ago)
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility. (4 years ago)
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc. (4 years ago)
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc. (5 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
