@@ -2,7 +2,7 @@
 My name is Allprod (but you can call me Entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (3 months ago)
+- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -57,11 +57,11 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### 👯 Check out some of my recent followers
 
+- [CoreUnitNET](https://github.com/CoreUnitNET)
 - [Connor9994](https://github.com/Connor9994)
 - [Mwimwii](https://github.com/Mwimwii)
 - [hu8813](https://github.com/hu8813)
 - [warmice71](https://github.com/warmice71)
-- [danieloseni](https://github.com/danieloseni)
 
 #### 💬 Feedback
 
