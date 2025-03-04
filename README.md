@@ -41,6 +41,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### ⭐ Recent Stars
 
+- [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (1 day ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (2 years ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 years ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (3 years ago)
@@ -50,7 +51,6 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (4 years ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (5 years ago)
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility. (5 years ago)
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc. (5 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
