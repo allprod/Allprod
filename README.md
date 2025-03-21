@@ -20,6 +20,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### 🔨 My recent Pull Requests
 
+- [use adaptive card.](https://github.com/AnesFoufa/python-teams-logger/pull/18) on [AnesFoufa/python-teams-logger](https://github.com/AnesFoufa/python-teams-logger) (1 day ago)
 - [reference the latest action version](https://github.com/markdown-confluence/publish-action/pull/5) on [markdown-confluence/publish-action](https://github.com/markdown-confluence/publish-action) (10 months ago)
 - [Update docs to reference V5 action instead of V1](https://github.com/markdown-confluence/docs-markdown-confluence/pull/3) on [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) (10 months ago)
 - [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (2 years ago)
@@ -29,7 +30,6 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 - [merge upstream](https://github.com/allprod/dashboard/pull/4) on [allprod/dashboard](https://github.com/allprod/dashboard) (3 years ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (3 years ago)
 - [Merging docs](https://github.com/Mwimwii/dashboard/pull/4) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (3 years ago)
-- [Fixed the json.dumps() not serializing bug](https://github.com/Mwimwii/dashboard/pull/3) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (4 years ago)
 
 
 #### 📜 My recent blog posts
