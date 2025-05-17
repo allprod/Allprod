@@ -6,6 +6,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### 🌱 My latest projects
 
+- [allprod/db_sms_sender](https://github.com/allprod/db_sms_sender) - Script to send SMS messages stored in a database
 - [allprod/DataWranglingALX_Udacity](https://github.com/allprod/DataWranglingALX_Udacity) - course repo
 - [allprod/leavedemo](https://github.com/allprod/leavedemo) - temporaty demo
 - [allprod/FlatFollow](https://github.com/allprod/FlatFollow) - Flat follow. Follow ration balancing app
