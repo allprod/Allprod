@@ -38,7 +38,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/a59eb254db10814de1b48520ad35f9df) (5 years ago)
+- [](https://gist.github.com/a59eb254db10814de1b48520ad35f9df) (6 years ago)
 
 #### ⭐ Recent Stars
 
