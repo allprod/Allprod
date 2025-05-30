@@ -2,11 +2,11 @@
 My name is Allprod (but you can call me Entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (6 days ago)
+- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (1 week ago)
 
 #### 🌱 My latest projects
 
-- [allprod/db_sms_sender](https://github.com/allprod/db_sms_sender) - Script to send SMS messages stored in a database
+- [allprod/misc](https://github.com/allprod/misc) - Script to send SMS messages stored in a database
 - [allprod/DataWranglingALX_Udacity](https://github.com/allprod/DataWranglingALX_Udacity) - course repo
 - [allprod/leavedemo](https://github.com/allprod/leavedemo) - temporaty demo
 - [allprod/FlatFollow](https://github.com/allprod/FlatFollow) - Flat follow. Follow ration balancing app
