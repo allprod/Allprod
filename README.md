@@ -2,8 +2,8 @@
 My name is Allprod (but you can call me Entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (1 day ago)
-- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (2 weeks ago)
+- [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (2 days ago)
+- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (3 weeks ago)
 
 #### 🌱 My latest projects
 
