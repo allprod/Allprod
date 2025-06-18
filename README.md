@@ -2,7 +2,7 @@
 My name is Allprod (but you can call me Entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
-- [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (6 days ago)
+- [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (1 week ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -23,7 +23,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### 🔨 My recent Pull Requests
 
-- [use adaptive card.](https://github.com/AnesFoufa/python-teams-logger/pull/18) on [AnesFoufa/python-teams-logger](https://github.com/AnesFoufa/python-teams-logger) (2 months ago)
+- [use adaptive card.](https://github.com/AnesFoufa/python-teams-logger/pull/18) on [AnesFoufa/python-teams-logger](https://github.com/AnesFoufa/python-teams-logger) (3 months ago)
 - [reference the latest action version](https://github.com/markdown-confluence/publish-action/pull/5) on [markdown-confluence/publish-action](https://github.com/markdown-confluence/publish-action) (1 year ago)
 - [Update docs to reference V5 action instead of V1](https://github.com/markdown-confluence/docs-markdown-confluence/pull/3) on [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) (1 year ago)
 - [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (2 years ago)
