@@ -3,7 +3,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 #### 👷 Check out what I'm currently working on
 
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (1 week ago)
-- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (3 weeks ago)
+- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 - [Update docs to reference V5 action instead of V1](https://github.com/markdown-confluence/docs-markdown-confluence/pull/3) on [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) (1 year ago)
 - [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (2 years ago)
 - [sync](https://github.com/allprod/dashboard/pull/13) on [allprod/dashboard](https://github.com/allprod/dashboard) (2 years ago)
-- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (2 years ago)
+- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (3 years ago)
 - [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (4 years ago)
 - [merge upstream](https://github.com/allprod/dashboard/pull/4) on [allprod/dashboard](https://github.com/allprod/dashboard) (4 years ago)
 - [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (4 years ago)
