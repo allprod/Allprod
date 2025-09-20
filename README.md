@@ -3,7 +3,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 #### 👷 Check out what I'm currently working on
 
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (3 months ago)
-- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (3 months ago)
+- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 months ago)
 
 #### 🌱 My latest projects
 
