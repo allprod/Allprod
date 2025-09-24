@@ -45,6 +45,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### ⭐ Recent Stars
 
+- [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (1 day ago)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (6 months ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 years ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 years ago)
@@ -54,7 +55,6 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (5 years ago)
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (5 years ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (5 years ago)
-- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility. (5 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
