@@ -2,6 +2,7 @@
 My name is Allprod (but you can call me Entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
 #### 👷 Check out what I'm currently working on
 
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (3 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 months ago)
 
@@ -16,7 +17,7 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 - [allprod/viento](https://github.com/allprod/viento) - A wind pattern prediction app. Mirrored from my gitlab repo: https://gitlab.com/PureEntropy/viento/
 - [allprod/mortise](https://github.com/allprod/mortise) - 
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site
-- [allprod/procurrency](https://github.com/allprod/procurrency) - A progressive web app built as part of the Google Learn with Andela Challenge 3.0 challenge course. This is a certificate challenge for the mobile web specialist track, a prerequisite for the Nanodegree scholarship selection.
+- [allprod/Allprod](https://github.com/allprod/Allprod) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,8 +46,8 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### ⭐ Recent Stars
 
-- [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (5 days ago)
-- [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (6 months ago)
+- [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (6 days ago)
+- [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (7 months ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 years ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (3 years ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (4 years ago)
@@ -61,11 +62,11 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 
 #### 👯 Check out some of my recent followers
 
-- [Arison99](https://github.com/Arison99)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [Connor9994](https://github.com/Connor9994)
 - [Mwimwii](https://github.com/Mwimwii)
 - [hu8813](https://github.com/hu8813)
+- [warmice71](https://github.com/warmice71)
 
 #### 💬 Feedback
 
