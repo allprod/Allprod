@@ -1,20 +1,13 @@
 ### Hi there 👋
-My name is Allprod (but you can call me Entropy), I'm a fullstack developer and data scientist currently learning DevOps.
+My name is Allprod (but you can call me Entropy), I'm a fullstack developer and data scientist. I plan on doing more open source work in future so check back in a few months to see what interesting stuff i'll get up to.  currently learning DevOps.
+
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
 
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
@@ -27,20 +20,13 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
 
 #### ⭐ Recent Stars
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+
 
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
@@ -54,13 +40,12 @@ Say Hello, I don't bite!
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/allprod
-- Blog: https://allprod.github.io
-- Whatsapp:  
+- Blog: https://allprod.github.io  
 
-<details>
-    <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="allprod's GitHub stats" src="https://gh-readme-stats-pied.vercel.app/api?username=allprod&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true"/>
-</details>
+#### 👨🏿‍💻 GitHub stats
+<img align="left" alt="allprod's GitHub stats" src="https://gh-readme-stats-pied.vercel.app/api?username=allprod&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true"/>
+<img align="center" alt="allprod's GitHub languages" src="https://gh-readme-stats-pied.vercel.app/api/top-langs?username=allprod&layout=compact&langs_count=9&card_width=320"/>
 
-
+#### 🎧 I'm currently listening to
+adding spotify in a bit
 
