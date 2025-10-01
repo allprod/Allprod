@@ -1,48 +1,19 @@
 ### Hi there 👋
-My name is Allprod (but you can call me Entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
+My name is Allprod (but you can call me Entropy), I'm a fullstack developer and data scientist. 
+I plan on doing more open source work in future so check back in a few months to see what interesting stuff i'll get up to.
+
+
 #### 👷 Check out what I'm currently working on
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (today)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (3 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 months ago)
-
-#### 🌱 My latest projects
-
-- [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app.
-- [allprod/misc](https://github.com/allprod/misc) - Script to send SMS messages stored in a database
-- [allprod/DataWranglingALX_Udacity](https://github.com/allprod/DataWranglingALX_Udacity) - course repo
-- [allprod/leavedemo](https://github.com/allprod/leavedemo) - temporaty demo
-- [allprod/FlatFollow](https://github.com/allprod/FlatFollow) - Flat follow. Follow ration balancing app
-- [allprod/MyMoney](https://github.com/allprod/MyMoney) - Ziphire python coding challenge
-- [allprod/viento](https://github.com/allprod/viento) - A wind pattern prediction app. Mirrored from my gitlab repo: https://gitlab.com/PureEntropy/viento/
-- [allprod/mortise](https://github.com/allprod/mortise) - 
-- [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site
-- [allprod/Allprod](https://github.com/allprod/Allprod) - 
-
-#### 🔭 Latest releases I've contributed to
-
-
-#### 🔨 My recent Pull Requests
-
-- [use adaptive card.](https://github.com/AnesFoufa/python-teams-logger/pull/18) on [AnesFoufa/python-teams-logger](https://github.com/AnesFoufa/python-teams-logger) (6 months ago)
-- [reference the latest action version](https://github.com/markdown-confluence/publish-action/pull/5) on [markdown-confluence/publish-action](https://github.com/markdown-confluence/publish-action) (1 year ago)
-- [Update docs to reference V5 action instead of V1](https://github.com/markdown-confluence/docs-markdown-confluence/pull/3) on [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) (1 year ago)
-- [use bash for install instructs](https://github.com/xtrinch/fcm-django/pull/230) on [xtrinch/fcm-django](https://github.com/xtrinch/fcm-django) (2 years ago)
-- [sync](https://github.com/allprod/dashboard/pull/13) on [allprod/dashboard](https://github.com/allprod/dashboard) (3 years ago)
-- [[Docs] correct grammar `administrators-and-roles` doc](https://github.com/FoalTS/foal/pull/1102) on [FoalTS/foal](https://github.com/FoalTS/foal) (3 years ago)
-- [Updated reqs and changes pushed](https://github.com/Mwimwii/dashboard/pull/7) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (4 years ago)
-- [merge upstream](https://github.com/allprod/dashboard/pull/4) on [allprod/dashboard](https://github.com/allprod/dashboard) (4 years ago)
-- [current state merge. UI needs polishing](https://github.com/Mwimwii/dashboard/pull/5) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (4 years ago)
-- [Merging docs](https://github.com/Mwimwii/dashboard/pull/4) on [Mwimwii/dashboard](https://github.com/Mwimwii/dashboard) (4 years ago)
 
 
 #### 📜 My recent blog posts
 
 - [Introduction to Entropy](https://allprod.github.io/posts/hithere/) (3 years ago)
 
-#### 📓 Gists I wrote
-
-- [](https://gist.github.com/a59eb254db10814de1b48520ad35f9df) (6 years ago)
 
 #### ⭐ Recent Stars
 
@@ -57,24 +28,24 @@ My name is Allprod (but you can call me Entropy), I do machine learning, mobile 
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (5 years ago)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes (5 years ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
 
 #### 👯 Check out some of my recent followers
 
-- [lrepo52](https://github.com/lrepo52)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [Connor9994](https://github.com/Connor9994)
 - [Mwimwii](https://github.com/Mwimwii)
 - [hu8813](https://github.com/hu8813)
+- [warmice71](https://github.com/warmice71)
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/allprod
-- Blog: https://allprod.github.io
+- Blog: https://allprod.github.io  
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+#### 👨🏿‍💻 GitHub stats
+<img align="left" alt="allprod's GitHub stats" src="https://gh-readme-stats-pied.vercel.app/api?username=allprod&theme=transparent&hide_title=true&show_icons=true&include_all_commits=true&count_private=true"/>
+<img align="center" alt="allprod's GitHub languages" src="https://gh-readme-stats-pied.vercel.app/api/top-langs?username=allprod&theme=transparent&layout=compact&langs_count=9&card_width=320"/>
+
+
+
