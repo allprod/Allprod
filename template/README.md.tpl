@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Allprod (but you can call me Entropy), I do machine learning, mobile development, systems development, systems administration, and technical support.
+My name is Allprod (but you can call me Entropy), I'm a fullstack developer and data scientist currently learning DevOps.
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -54,5 +55,12 @@ Say Hello, I don't bite!
 
 - Twitter: https://twitter.com/allprod
 - Blog: https://allprod.github.io
+- Whatsapp:  
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="allprod's GitHub stats" src="https://gh-readme-stats-pied.vercel.app/api?username=allprod&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true"/>
+</details>
+
+
+
