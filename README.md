@@ -44,8 +44,9 @@ I plan on doing more open source work in future so check back in a few months to
 - Blog: https://allprod.github.io  
 
 #### 👨🏿‍💻 GitHub stats
-<img align="left" alt="allprod's GitHub stats" src="https://gh-readme-stats-pied.vercel.app/api?username=allprod&theme=transparent&hide_title=true&show_icons=true&include_all_commits=true&count_private=true"/>
-<img align="center" alt="allprod's GitHub languages" src="https://gh-readme-stats-pied.vercel.app/api/top-langs?username=allprod&theme=transparent&layout=compact&langs_count=9&card_width=320"/>
+<img align="left" alt="allprod's GitHub stats" src="https://gh-readme-stats-pied.vercel.app/api?username=allprod&theme=transparent&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars"/>
+<img align="center" alt="allprod's GitHub languages" src="https://gh-readme-stats-pied.vercel.app/api/top-langs?username=allprod&theme=transparent&layout=compact&hide_progress=true&langs_count=12&card_width=320"/>
+
 
 
 
