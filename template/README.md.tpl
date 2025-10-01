@@ -46,6 +46,5 @@ Say Hello, I don't bite!
 <img align="left" alt="allprod's GitHub stats" src="https://gh-readme-stats-pied.vercel.app/api?username=allprod&theme=cobalt&hide_title=true&show_icons=true&include_all_commits=true&count_private=true"/>
 <img align="center" alt="allprod's GitHub languages" src="https://gh-readme-stats-pied.vercel.app/api/top-langs?username=allprod&layout=compact&langs_count=9&card_width=320"/>
 
-#### 🎧 I'm currently listening to
-adding spotify in a bit
+
 
