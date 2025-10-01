@@ -9,13 +9,6 @@ I plan on doing more open source work in future so check back in a few months to
 {{- end}}
 
 
-
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-
 #### 📜 My recent blog posts
 {{range rss "https://allprod.github.io/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
@@ -33,9 +26,6 @@ I plan on doing more open source work in future so check back in a few months to
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
