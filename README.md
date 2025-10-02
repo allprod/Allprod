@@ -5,7 +5,7 @@ I plan on doing more open source work in future so check back in a few months to
 
 #### 👷 Check out what I'm currently working on
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (today)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (3 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 months ago)
 
