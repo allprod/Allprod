@@ -44,11 +44,11 @@ Thanks for the viewing, every visit feeds the `capoo` and makes him ***loooonger
 <img alt="allprod's recent contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=allprod&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true"/>
 
 #### 🎧 I'm currently listening to
-
+[![Graphic of the song allprod is currently listening to on spotify](https://readme-spotified.vercel.app/api/spotify)](https://open.spotify.com/user/itisentropy)
 
 
 #### 🏆 Trophies
-While you're still here, migh as well look at my trophies. Shiny, right?
+While you're still here, migh as well look at my trophies. Shiny, right?  
 <img alt="allprod's github trophies" src="https://github-profile-trophy.vercel.app/?username=allprod&row=2&column=3"/>
 
 
