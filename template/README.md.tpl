@@ -47,7 +47,7 @@ Thanks for the viewing, every visit feeds the `capoo` and makes him ***loooonger
     <a href="https://open.spotify.com/user/itisentropy">
         <picture>
             <source srcset="https://readme-spotified.vercel.app/api/spotify/?background_color=bbbbbb&border_color=ffffff" media="(prefers-color-scheme: light)" />
-            <source srcset="https://readme-spotified.vercel.app/api/spotify/?background_color=ef0000&border_color=000000" media="(prefers-color-scheme: dark)" />
+            <source srcset="https://readme-spotified.vercel.app/api/spotify/" media="(prefers-color-scheme: dark)" />
             <img src="https://readme-spotified.vercel.app/api/spotify" alt ="Graphic of the song allprod is currently listening to on spotify" />
         </picture>
     </a>
