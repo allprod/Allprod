@@ -4,7 +4,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👷 Check out what I'm currently working on  
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (today)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (4 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 months ago)
 
@@ -53,7 +53,16 @@ Thanks for the viewing, every visit feeds the `capoo` and makes him ***loooonger
 #### 📈 Contribution Graph  
 <img alt="allprod's recent contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=allprod&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true"/>
 
-
+#### 🎧 I'm currently listening to 
+<div align="center">
+    <a href="https://open.spotify.com/user/itisentropy">
+        <picture>
+            <source srcset="https://readme-spotified.vercel.app/api/spotify/?background_color=bbbbbb&border_color=ffffff" media="(prefers-color-scheme: light)" />
+            <source srcset="https://readme-spotified.vercel.app/api/spotify/?background_color=ef0000&border_color=000000" media="(prefers-color-scheme: dark)" />
+            <img src="https://readme-spotified.vercel.app/api/spotify" alt ="Graphic of the song allprod is currently listening to on spotify" />
+        </picture>
+    </a>
+</div>   
 
 
 #### 🏆 Trophies  
