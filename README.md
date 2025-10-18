@@ -4,7 +4,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👷 Check out what I'm currently working on  
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (today)
 - [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (2 days ago)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (4 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (4 months ago)
@@ -48,7 +48,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 <img align="center" alt="allprod's GitHub languages" src="https://gh-readme-stats-pied.vercel.app/api/top-langs?username=allprod&theme=transparent&layout=compact&hide_progress=true&langs_count=10&card_width=320"/>  
 <img align="center" alt="allprod's github streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=allprod"/>  
 
-Thanks for the viewing, every visit feeds the `capoo` and makes him ***loooonger***  
+Thanks for the viewing, every visit feeds the `capoo` and grows his power level  
 <img src="https://count.getloli.com/@allprod?theme=capoo-2" alt="allprod's github profile visit stats" />
 
 #### 📈 Contribution Graph  
