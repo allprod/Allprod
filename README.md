@@ -17,7 +17,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### ⭐ Recent Stars
 
-- [djensenius/battery_hearts](https://github.com/djensenius/battery_hearts) - A terminal battery indicator using hearts - supports both nerdfont symbols and emoji (2 weeks ago)
+- [djensenius/battery_hearts](https://github.com/djensenius/battery_hearts) - A terminal battery indicator using hearts - supports both nerdfont symbols and emoji (3 weeks ago)
 - [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (1 month ago)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (8 months ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 years ago)
