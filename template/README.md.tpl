@@ -8,6 +8,22 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 {{- end}}
 
 
+#### 🏗️ Stuff i've done  
+- Applications Office at Smart Zambia Institute(https://www.) [[Ministry of Mines and Minerals Development](https://www.mmmd.gov.zm)]:
+    * Documented all proccured systems to improveservice delivery and fault resolution
+    * Led a multilateral disaster recovery team to resolve a critical application failure in my third month on assignment
+- Fullstack Developer at [Titl](https://www.titl.app/)
+    * Improved transaction logic and eliminated the occasional occurence of orphan records.
+    * Enhanced the onboarding application with offline first functionality.
+    * Added background synchronisation functionality to the application (with a fix for iphones which lack the API by design).
+    * Contributed to the plaform UIs and backend
+- Lead Fullstack Developet at [KualaTech](https://www.kuala.io)
+    * Developed the statistical model for vehicle value estimation
+    * Planed and tracked sprints
+    * Contributed to the platform UI and backend
+
+
+
 #### 📜 My recent blog posts
 {{range rss "https://allprod.github.io/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
