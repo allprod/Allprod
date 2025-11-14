@@ -9,7 +9,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 
 #### 🏗️ Stuff i've done  
-- Applications Office at Smart Zambia Institute(https://www.) [[Ministry of Mines and Minerals Development](https://www.mmmd.gov.zm)]:
+- Applications Office at [Smart Zambia Institute](https://www.szi.gov.zm) [[Ministry of Mines and Minerals Development](https://www.mmmd.gov.zm)]:
     * Documented all proccured systems to improveservice delivery and fault resolution
     * Led a multilateral disaster recovery team to resolve a critical application failure in my third month on assignment
 - Fullstack Developer at [Titl](https://www.titl.app/)
