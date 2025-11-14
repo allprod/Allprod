@@ -4,10 +4,26 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👷 Check out what I'm currently working on  
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (today)
 - [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (4 weeks ago)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (5 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (5 months ago)
+
+
+#### 🏗️ Stuff i've done  
+- Applications Office at Smart Zambia Institute(https://www.) [[Ministry of Mines and Minerals Development](https://www.mmmd.gov.zm)]:
+    * Documented all proccured systems to improveservice delivery and fault resolution
+    * Led a multilateral disaster recovery team to resolve a critical application failure in my third month on assignment
+- Fullstack Developer at [Titl](https://www.titl.app/)
+    * Improved transaction logic and eliminated the occasional occurence of orphan records.
+    * Enhanced the onboarding application with offline first functionality.
+    * Added background synchronisation functionality to the application (with a fix for iphones which lack the API by design).
+    * Contributed to the plaform UIs and backend
+- Lead Fullstack Developet at [KualaTech](https://www.kuala.io)
+    * Developed the statistical model for vehicle value estimation
+    * Planed and tracked sprints
+    * Contributed to the platform UI and backend
+
 
 
 #### 📜 My recent blog posts
