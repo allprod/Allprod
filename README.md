@@ -5,7 +5,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 #### 👷 Check out what I'm currently working on  
 
 - [allprod/Allprod](https://github.com/allprod/Allprod) -  (today)
-- [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (4 weeks ago)
+- [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (1 month ago)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (5 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (5 months ago)
 
