@@ -4,7 +4,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👷 Check out what I'm currently working on  
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (2 days ago)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
 - [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (2 months ago)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (6 months ago)
 - [allprod/allprod.github.io](https://github.com/allprod/allprod.github.io) - github pages site (7 months ago)
@@ -34,7 +34,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 #### ⭐ Recent Stars
 
 - [djensenius/battery_hearts](https://github.com/djensenius/battery_hearts) - A terminal battery indicator using hearts - supports both nerdfont symbols and emoji (2 months ago)
-- [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (2 months ago)
+- [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (3 months ago)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (9 months ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 years ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (4 years ago)
@@ -47,11 +47,11 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👯 Check out some of my recent followers
 
+- [S4IL21](https://github.com/S4IL21)
+- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [shakiliitju](https://github.com/shakiliitju)
 - [lrepo52](https://github.com/lrepo52)
-- [slavaGanzin](https://github.com/slavaGanzin)
-- [Connor9994](https://github.com/Connor9994)
-- [Mwimwii](https://github.com/Mwimwii)
 
 
 #### 📫 How to reach me
