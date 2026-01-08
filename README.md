@@ -28,19 +28,19 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 📜 My recent blog posts
 
-- [Introduction to Entropy](https://allprod.github.io/posts/hithere/) (3 years ago)
+- [Introduction to Entropy](https://allprod.github.io/posts/hithere/) (4 years ago)
 
 
 #### ⭐ Recent Stars
 
-- [djensenius/battery_hearts](https://github.com/djensenius/battery_hearts) - A terminal battery indicator using hearts - supports both nerdfont symbols and emoji (2 months ago)
+- [djensenius/battery_hearts](https://github.com/djensenius/battery_hearts) - A terminal battery indicator using hearts - supports both nerdfont symbols and emoji (3 months ago)
 - [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (3 months ago)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (10 months ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 years ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (4 years ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (4 years ago)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (4 years ago)
-- [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (4 years ago)
+- [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (5 years ago)
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (5 years ago)
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (5 years ago)
 
