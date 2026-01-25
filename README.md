@@ -39,7 +39,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (3 years ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (4 years ago)
 - [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields (4 years ago)
-- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (4 years ago)
+- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (5 years ago)
 - [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (5 years ago)
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (5 years ago)
 - [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (5 years ago)
@@ -48,10 +48,10 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 #### 👯 Check out some of my recent followers
 
 - [S4IL21](https://github.com/S4IL21)
-- [helallao](https://github.com/helallao)
-- [seckinyasar](https://github.com/seckinyasar)
 - [shakiliitju](https://github.com/shakiliitju)
 - [lrepo52](https://github.com/lrepo52)
+- [slavaGanzin](https://github.com/slavaGanzin)
+- [Connor9994](https://github.com/Connor9994)
 
 
 #### 📫 How to reach me
