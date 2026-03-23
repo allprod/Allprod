@@ -42,7 +42,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (5 years ago)
 - [wilmeragsgh/resume](https://github.com/wilmeragsgh/resume) - Single source of truth for my personal up-to-date resume (5 years ago)
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz (5 years ago)
-- [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (5 years ago)
+- [gkaramanis/distracted-boyfriend](https://github.com/gkaramanis/distracted-boyfriend) -  (6 years ago)
 
 
 #### 👯 Check out some of my recent followers
