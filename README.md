@@ -7,7 +7,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 - [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
 - [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) - Docs for Markdown Confluence Tools (3 weeks ago)
 - [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (7 months ago)
-- [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (11 months ago)
+- [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (1 year ago)
 
 
 #### 🏗️ Stuff i've done  
