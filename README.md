@@ -4,9 +4,9 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👷 Check out what I'm currently working on  
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (2 days ago)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
 - [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) - Docs for Markdown Confluence Tools (4 weeks ago)
-- [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (7 months ago)
+- [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (8 months ago)
 - [allprod/t3clone](https://github.com/allprod/t3clone) - Clone of the T3 AI chat app. (1 year ago)
 
 
@@ -47,11 +47,11 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👯 Check out some of my recent followers
 
+- [siamem](https://github.com/siamem)
 - [motanelson](https://github.com/motanelson)
 - [S4IL21](https://github.com/S4IL21)
 - [shakiliitju](https://github.com/shakiliitju)
 - [lrepo52](https://github.com/lrepo52)
-- [slavaGanzin](https://github.com/slavaGanzin)
 
 
 #### 📫 How to reach me
