@@ -5,7 +5,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 #### 👷 Check out what I'm currently working on  
 
 - [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
-- [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) - Docs for Markdown Confluence Tools (1 month ago)
+- [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) - Docs for Markdown Confluence Tools (2 months ago)
 - [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (9 months ago)
 
 
