@@ -4,7 +4,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 
 #### 👷 Check out what I'm currently working on  
 
-- [allprod/Allprod](https://github.com/allprod/Allprod) -  (2 days ago)
+- [allprod/Allprod](https://github.com/allprod/Allprod) -  (1 day ago)
 - [markdown-confluence/docs-markdown-confluence](https://github.com/markdown-confluence/docs-markdown-confluence) - Docs for Markdown Confluence Tools (2 months ago)
 - [chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com) - Static site and content for Storybook tutorials (9 months ago)
 
@@ -33,7 +33,7 @@ My name is Allprod (but you can call me Entropy), I'm a fullstack developer and 
 #### ⭐ Recent Stars
 
 - [djensenius/battery_hearts](https://github.com/djensenius/battery_hearts) - A terminal battery indicator using hearts - supports both nerdfont symbols and emoji (9 months ago)
-- [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (9 months ago)
+- [platformatic/intelligent-command-center](https://github.com/platformatic/intelligent-command-center) - Platformatic Intelligent Command Center (10 months ago)
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables. (1 year ago)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (4 years ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (4 years ago)
