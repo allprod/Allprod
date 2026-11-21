@@ -68,6 +68,16 @@ Thanks for the viewing, every visit feeds the `capoo` and grows his power level
 #### 📈 Contribution Graph  
 <img alt="allprod's recent contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=allprod&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true"/>
 
+#### 📜 Certifications 
+
+<a href="https://certdirectory.io/profile/mwenimpako-paul-siame?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/mwenimpako-paul-siame.svg?style=card&theme=dark">
+    <img alt="Mwenimpako Paul Siame on CertDirectory" src="https://certdirectory.io/badge/mwenimpako-paul-siame.svg?style=card">
+  </picture>
+</a>
+
+
 #### 🎧 I'm currently listening to 
 <div align="center">
     <a href="https://open.spotify.com/user/itisentropy">
